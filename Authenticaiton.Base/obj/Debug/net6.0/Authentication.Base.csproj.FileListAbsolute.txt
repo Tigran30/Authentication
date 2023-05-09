@@ -1,0 +1,15 @@
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\bin\Debug\net6.0\Authentication.Base.deps.json
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\bin\Debug\net6.0\Authentication.Base.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\bin\Debug\net6.0\Authentication.Base.pdb
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\bin\Debug\net6.0\Authentication.Database.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\bin\Debug\net6.0\Authentication.Database.pdb
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\Authentication.Base.csproj.AssemblyReference.cache
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\Authentication.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\Authentication.Base.AssemblyInfoInputs.cache
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\Authentication.Base.AssemblyInfo.cs
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\Authentication.Base.csproj.CoreCompileInputs.cache
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\Authentication.Base.csproj.CopyComplete
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\Authentication.Base.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\refint\Authentication.Base.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\Authentication.Base.pdb
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authenticaiton.Base\obj\Debug\net6.0\ref\Authentication.Base.dll

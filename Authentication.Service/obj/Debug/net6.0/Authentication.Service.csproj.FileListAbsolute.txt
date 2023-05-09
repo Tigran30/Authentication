@@ -1,0 +1,17 @@
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\bin\Debug\net6.0\Authentication.Service.deps.json
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\bin\Debug\net6.0\Authentication.Service.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\bin\Debug\net6.0\Authentication.Service.pdb
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\Authentication.Service.csproj.AssemblyReference.cache
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\Authentication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\Authentication.Service.AssemblyInfoInputs.cache
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\Authentication.Service.AssemblyInfo.cs
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\Authentication.Service.csproj.CoreCompileInputs.cache
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\Authentication.Service.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\refint\Authentication.Service.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\Authentication.Service.pdb
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\ref\Authentication.Service.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\bin\Debug\net6.0\Authentication.Database.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\bin\Debug\net6.0\Authentication.Database.pdb
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\obj\Debug\net6.0\Authentication.Service.csproj.CopyComplete
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\bin\Debug\net6.0\Authentication.Base.dll
+C:\Users\tigra\OneDrive\Desktop\tiko\C#\Authentication\Authentication.Service\bin\Debug\net6.0\Authentication.Base.pdb
